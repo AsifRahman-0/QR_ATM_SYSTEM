@@ -8,4 +8,4 @@ This ATM System is based on QR Login where you will place QR CODE ATM in front A
 
 
 
-This Team Project.
+This is Team Project.
